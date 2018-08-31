@@ -61,7 +61,7 @@ You have the following HTML page:
 
 * What will be displayed in the console when you preview the page?
 
-Option 1:
+Option 1:	X
 
 Here is the info:
 
@@ -135,7 +135,7 @@ function doAction(data, size) {
 
 2) This|is|a|test#that#illustrates#some#key#points#about#scripts
 
-3) Nothing will be displayed on the screen and an error will display in the console
+3) Nothing will be displayed on the screen and an error will display in the console	X
 
 4) This#is#a#test that illustrates
 
@@ -170,7 +170,7 @@ The body of the HTML page contains the following script:
 
 1) INFO: Could not process the file; LOGGED ON Fri Nov 03 2018 20:19:53 GMT-0400 (Eastern Standard Time)
 Could not call the function to log the info!
-Executed the finally block
+Executed the finally block	X
 
 2) Could not call the function to log the info!
 Executed the finally block
@@ -220,7 +220,7 @@ The script in the following HTML page prompts the user for values and shows the 
 
 1) The "result" is: 39
 
-2) The "result" is: 10
+2) The "result" is: 10	X
 
 3) The "result" is: 31
 
@@ -261,7 +261,7 @@ The following code snippet declares some variables and calls a function to print
 
 * What are the types of the variables?
 
-Option 1:
+Option 1:	X
 ```
 type of x: undefined
 type of y: boolean
@@ -462,13 +462,13 @@ The following script displays information about the screen:
 
 * For each of the following statements about these properties, answer True or False for the following questions:
 
-1) screen.availHeight > screen.height
+1) screen.availHeight > screen.height	TRUE
 
-2) screen.colorDepth > screen.pixelDepth
+2) screen.colorDepth > screen.pixelDepth	FALSE
 
-3) screen.availHeight < screen.height
+3) screen.availHeight < screen.height	FALSE
 
-4) screen.colorDepth < screen.pixelDepth
+4) screen.colorDepth < screen.pixelDepth	TRUE
 
 
 <hr/>
@@ -551,7 +551,7 @@ You preview the following page in the browser:
 
 2) Green
 
-3) Banana
+3) Banana	X
 
 4) Kiwi
 
